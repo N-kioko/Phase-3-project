@@ -1,5 +1,9 @@
 
 ### Telecom Customer Churn Analysis
+- [Data Sources](https://github.com/N-kioko/Phase-3-project/tree/main/Data)
+
+- [Jupyter Notebook ](https://github.com/N-kioko/Phase-3-project/blob/main/index.ipynb)
+
 
 ## Table of Contents
 
@@ -136,9 +140,7 @@ The results of this analysis show that SyriaTel has a significant customer churn
 
 1. 14% client loss with an estimate loss of the company's 15% revenue could be detrimental to the company on both profit mergins, snd sustainability.  There is need to Identify the most influential factors contributing to customer churn from the correlation matrix. There is need for collecting data that is more client_centred so as to explore characteristics of clients who are likely to be lost for remediation purposes.
 
-2. Based on the results, we recommend the use of a Decision Tree model for predicting customer churn. This model has a high accuracy score, making it a reliable choice for this specific problem. The model can be fine-tuned and regularized to improve its performance. Additionally, the collected data should be more client_centred to provide more accurate and relevant insights for identifying the most influential factors contributing to customer churn.
-
-## How to Run
+2. Based on the results, we recommend the use of a Decision Tree model for predicting customer churn. This model has a high accuracy score, making it a reliable choice for this specific problem. The model can be fine-tuned and regularized to improve its performance. 
 
 1. Clone the repository.
 2. Install the required dependencies.
