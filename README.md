@@ -4,6 +4,10 @@
 
 - [Jupyter Notebook ](https://github.com/N-kioko/Phase-3-project/blob/main/index.ipynb)
 
+- [Notebook PDF](https://github.com/N-kioko/Phase-3-project/blob/main/index.pdf)
+
+- [Power Point Presentation](https://github.com/N-kioko/Phase-3-project/blob/main/POWERPOINT%20PRESENTATION.pdf)
+
 
 ## Table of Contents
 
